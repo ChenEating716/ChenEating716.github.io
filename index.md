@@ -5,7 +5,7 @@
 - CYT_Dataset consists of five parts(RGBImages,DepthImages,SegImages,BaseandOrien and PointCloud).
 
 
-### How we made CYT_Dataset?
+### How we made it
 - First, randomly pick 12 different kinds of objects from 77 objects.
 - Secondly, make them drop into the box from random position and heigt above.
 - Thirdly, put the synthetic camera right above the box, generating RGBImages,DepthImages and SegmentationImages.And record the current position and orientation of each object from the box.
