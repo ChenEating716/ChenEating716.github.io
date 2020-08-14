@@ -1,7 +1,7 @@
 ## Welcome to CYT_Dataset
 ### What is CYT_Dataset?
 A product from PyBullet simulation.
-CYT_Dataset contains 77 kinds of object,most of them are selected from YCB_Dataset.
+CYT_Dataset contains 77 kinds of objects,most of them are selected from YCB_Dataset.
 For each group of data,there are 12 different kinds of objects dropping into a box，and we put the Synthetic Camera right above the box.
 So basicly,all the information come from PyBullet Synthetic Camera Rendering.
 
