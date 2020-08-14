@@ -4,7 +4,20 @@
 - CYT_Dataset contains 77 kinds of objects, most of them are selected from YCB_Dataset.
 - For each group of data, there are 12 different kinds of objects dropping into the box，from different base position and height.
 And we put the Synthetic Camera right above the box.
-
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>CYT_Dataset</h1>
+      <p><b>RGBImages</b></p>
+      <p><b>DepthImages</b></p>
+      <p><b>SegImages</b></p>
+      <p><b>BaseandOrien</b></p>
+    </td>
+    <td width="25%">
+      <img src="/123.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 
 CYT_Dataset consists of five parts(RGBImages,DepthImages,SegImages,BaseandOrien and PointCloud).
 #### RGBImages
