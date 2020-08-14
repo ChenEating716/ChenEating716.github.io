@@ -14,7 +14,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>CYT_Dataset</h3>
+      <h1>CYT_Dataset</h1>
       <p><b>RGBImages</b></p>
     </td>
     <td width="25%">
