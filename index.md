@@ -14,11 +14,8 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>CYT_Dataset</h1>
+      <h1>CYT_Dataset</h3>
       <p><b>RGBImages</b></p>
-      <p><b>DepthImages</b></p>
-      <p><b>SegImages</b></p>
-      <p><b>BaseandOrien</b></p>
     </td>
     <td width="25%">
       <img src="/123.jpg" width="100%">      % 插入证件照代码
