@@ -7,7 +7,7 @@
 
 ### How we made it
 - First, randomly pick 12 different kinds of objects from 77 objects.
-- Secondly, make them drop into the box from random position and heigt above.
+- Secondly, make them drop into the box from random position and height above.
 - Thirdly, put the synthetic camera right above the box, generating RGBImages,DepthImages and SegmentationImages.And record the current position and orientation of each object from the box.
 - Last, generating 3D colorful point cloud from RGBImages and DepthImages.
 
